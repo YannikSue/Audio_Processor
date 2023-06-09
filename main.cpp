@@ -32,7 +32,6 @@ static int paTestCallback(const void *inputBufffer, void *outputBuffer, unsigned
     float *input = (float *)inputBufffer;
     (void)outputBuffer;
 
-    // '█`, ``, ``
 
     int displaySize = 100;
     printf("\r");
